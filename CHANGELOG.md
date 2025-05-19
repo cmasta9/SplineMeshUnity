@@ -4,6 +4,15 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.4.1] - 2025-05-19
+
+### Added
+- Added feature to twist the spline mesh based on the rotation of the knots
+- Spline mesh can now be twisted by enabling this "Should Twist Mesh" Boolean in the Inspector. Feature available for both SplineMesh and SplineMeshResolution scripts.
+
+### Changed
+- Updated `package.json`
+
 ## [1.4.0] - 2024-01-27
 
 ### Added
