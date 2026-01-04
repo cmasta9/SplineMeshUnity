@@ -4,6 +4,11 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [1.4.2] - 2026-01-04
+- Added option to flip normals on resolution
+- Added option to set forward and UV axis to Z
+- Added option to save generated mesh in assets folder
+
 ## [1.4.1] - 2025-05-19
 
 ### Added
@@ -56,3 +61,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Removed
 - Removed `SplineFunctions.cs` to introduce the Utility script instead.
 - Removed unwanted jargon inside code on all scripts 
+
