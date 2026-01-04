@@ -30,10 +30,13 @@ Stay tuned for updates!
 3. Paste the following URL:  
    ```text
    https://github.com/AnanD3V/SplineMesh
+(previous version)
+
 ### Option 2: Install via package
 1. Open this alternative link to get the package file
    ```text
-   https://github.com/AnanD3V/SplineMeshUnity
+   https://github.com/cmasta9/SplineMeshUnity
 2. Download the .zip file
 3. Extract the .zip file
 4. Open the .unitypackage file inside it with Unity open, to import the package directly.
+
